@@ -22,5 +22,5 @@ Usage:  mdtoc FILE [-h] [-i COUNT]
 
   FILE                 path to a markdown file
   -i COUNT             use COUNT spaces for indentation
-  -h                   show this help message"
+  -h                   show this help message
 ```
